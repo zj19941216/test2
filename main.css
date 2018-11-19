@@ -44,6 +44,6 @@ input, textarea{font-family: "æœ€åƒç´ EX2","Microsoft YaHei",Arial,Ro
 
 /*æç¤ºé¡µ*/
 .turning{ background-color: #000000; position: absolute; left: 0; top:0; width: 100%; height: 100%; z-index: 9999; }
-.turning .img{ position: relative; left: 30%; top: 10%; width: 40%; height: 90%; background-image: url("../images/turning.png"); background-repeat: no-repeat; background-size: contain;}
+.turning .img{ position: relative; left: 30%; top: 10%; width: 40%; height: 90%; background-image: url("./turning.png"); background-repeat: no-repeat; background-size: contain;}
 
 @import "keyframe.css";
