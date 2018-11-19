@@ -20,7 +20,6 @@
 </head>
 <body>
 
-<!--首页-->
 <section class="index default">
     <div class="head">
         <div class="list">
