@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
- <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>微信矩阵</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="full-screen" content="yes">
-    <meta name="screen-orientation" content="portrait">
-    <meta name="x5-fullscreen" content="true">
-    <meta name="360-fullscreen" content="true">
-    <meta name="apple-touch-fullscreen" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" rev="stylesheet" href="./swiper-3.3.1.min.css">
-    <link rel="stylesheet" rev="stylesheet" href="./main.css">
-    <link rel="stylesheet" rev="stylesheet" href="./renda.css">
-</head>
-    <meta charset="UTF-8">
-    <title>关注论坛</title>
-</head>
 <body>
 
 <section class="index default">
