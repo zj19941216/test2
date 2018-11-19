@@ -5,20 +5,20 @@ a{text-decoration: none;}
 .gray { color: #727272;}
 .sep{ background-color: #eeeeee; height: 1rem;}
 .loading{ height: 5rem; overflow: hidden; background-color: #eeeeee;}
-.loading .text{height: 3rem; padding-left: 3.5rem; margin-top: 1rem; line-height: 3rem; background-image: url("../images/loading.gif"); background-repeat: no-repeat; background-size: 3rem 3rem; max-width: 100%; overflow: hidden; width: auto; display: inline-block; color: #1c1b21; }
+.loading .text{height: 3rem; padding-left: 3.5rem; margin-top: 1rem; line-height: 3rem; background-image: url("./loading.gif"); background-repeat: no-repeat; background-size: 3rem 3rem; max-width: 100%; overflow: hidden; width: auto; display: inline-block; color: #1c1b21; }
 .button-bottom{ background-color: #23538d; color: #ffffff; position: absolute; bottom: 0; height: 5rem; font-size: 1.8rem; line-height: 5rem;}
 .button-bottom-clear{position: relative; bottom: 0; height: 5rem; font-size: 1.8rem; line-height: 5rem;}
 .button-bottom.close{ background-color: #909090; color: #ffffff; }
 
 /*é¦–é¡µ*/
-.default{ background-color: #fafafa; background-image: url("../images/default_bg.png"); background-position: bottom; background-repeat: no-repeat; background-size: 100% auto; overflow-y: auto;}
+.default{ background-color: #fafafa; background-image: url("./default_bg.png"); background-position: bottom; background-repeat: no-repeat; background-size: 100% auto; overflow-y: auto;}
 .default .head{ height: 6%; width: 90%; margin: 6% 5%;}
 .default .head .list{ border-bottom: .2rem solid #276eca; height: 100%; overflow: hidden; position: relative;}
-.default .head .list .item{ height: 100%; width: 34.5%; background-image: url("../images/default_item.png"); background-repeat: no-repeat; background-size: 100% 100%; display: block; float: left; overflow: hidden; line-height: 4rem; position: absolute;}
+.default .head .list .item{ height: 100%; width: 34.5%; background-image: url("./default_item.png"); background-repeat: no-repeat; background-size: 100% 100%; display: block; float: left; overflow: hidden; line-height: 4rem; position: absolute;}
 .default .head .list .item:first-child{ left: 0; z-index: 3;}
 .default .head .list .item:nth-child(2){ left: 32.5%; z-index: 2;}
 .default .head .list .item:last-child{ left: 65.5%; z-index: 1;}
-.default .head .list .item.on{ background-image: url("../images/default_item_on.png"); color: #ffffff; }
+.default .head .list .item.on{ background-image: url("./default_item_on.png"); color: #ffffff; }
 .default .body{ height: 83%; width: 94%; padding: 5% 3%; padding-bottom: 0%;}
 .default .body .item{ width: 47%; height: 27%; display: block; float: left; text-align: center;}
 .default .body .item .img{ border-radius: 50%; overflow: hidden; width: 56%; height: auto; margin-left: 22%;}
@@ -35,8 +35,8 @@ a{text-decoration: none;}
 .signup .body .left .title{ font-size: 1.5rem; font-weight: bold; }
 .signup .body .left .text{ font-size: 1.4rem; background-repeat: no-repeat;
     background-size:8%; background-position-y:30%; padding-left: 10%; margin-top: 2%;}
-.signup .body .left .time{ background-image: url("../images/signup_time.png"); }
-.signup .body .left .number{ background-image: url("../images/signup_number.png");}
+.signup .body .left .time{ background-image: url("./signup_time.png"); }
+.signup .body .left .number{ background-image: url("./signup_number.png");}
 .signup .body .left .number b{ font-weight: normal; color: #23538d;}
 .signup .body .left .number b.close{ font-weight: normal; color: #909090;}
 .signup .body .right{ width: 30%; height: 100%; float: right; display: inline-block;}
@@ -120,7 +120,7 @@ a{text-decoration: none;}
 .advice-list .body .left{ width: 65%; height: 100%; text-align: left; display:inline-block;}
 .advice-list .body .left .title{ font-size: 1.5rem; font-weight: bold; }
 .advice-list .body .left .text{ font-size: 1.2rem; width: 100%; overflow: hidden; height: 2rem; line-height: 2rem; }
-.advice-list .body .left .time{ font-size: 1.4rem; background-repeat: no-repeat; background-size:8%; background-position-y:30%; padding-left: 10%; background-image: url("../images/signup_time.png"); line-height: 2rem; }
+.advice-list .body .left .time{ font-size: 1.4rem; background-repeat: no-repeat; background-size:8%; background-position-y:30%; padding-left: 10%; background-image: url("./signup_time.png"); line-height: 2rem; }
 .advice-list .body .right{ width: 30%; height: 100%; float: right; display: inline-block;}
 .advice-list .body .right .button{ width: 90%; height: 5rem; line-height: 5rem; background-color: #23538d; color: #ffffff; border-radius: 5%; display: block; font-size: 1.8rem; margin-top: 1rem;}
 .advice-list .body .right .button.close{ background-color: #909090; color: #ffffff; }
@@ -144,11 +144,11 @@ a{text-decoration: none;}
 
 .advice .tabbar{ height: 6%; width: 94%; margin: 6% 3% 0 3%;}
 .advice .tabbar .list{ border-bottom: .2rem solid #276eca; height: 100%; overflow: hidden; position: relative;}
-.advice .tabbar .list .item{ height: 100%; width: 34.5%; background-image: url("../images/default_item.png"); background-repeat: no-repeat; background-size: 100% 100%; display: block; float: left; overflow: hidden; line-height: 4rem; position: absolute;}
+.advice .tabbar .list .item{ height: 100%; width: 34.5%; background-image: url("./default_item.png"); background-repeat: no-repeat; background-size: 100% 100%; display: block; float: left; overflow: hidden; line-height: 4rem; position: absolute;}
 .advice .tabbar .list .item:first-child{ left: 0; z-index: 3;}
 .advice .tabbar .list .item:nth-child(2){ left: 32.5%; z-index: 2;}
 .advice .tabbar .list .item:last-child{ left: 65.5%; z-index: 1;}
-.advice .tabbar .list .item.on{ background-image: url("../images/default_item_on.png"); color: #ffffff; }
+.advice .tabbar .list .item.on{ background-image: url("./default_item_on.png"); color: #ffffff; }
 
 
 /*æ„è§æäº¤*/
@@ -172,7 +172,7 @@ a{text-decoration: none;}
 .questionnaire-list .body .left{ width: 65%; height: 100%; text-align: left; display:inline-block;}
 .questionnaire-list .body .left .title{ font-size: 1.5rem; font-weight: bold; }
 .questionnaire-list .body .left .text{ font-size: 1.4rem; background-repeat: no-repeat; background-size:8%; background-position-y:30%; padding-left: 10%; margin-top: 2%;}
-.questionnaire-list .body .left .time{ background-image: url("../images/signup_time.png"); }
+.questionnaire-list .body .left .time{ background-image: url("./signup_time.png"); }
 .questionnaire-list .body .right{ width: 30%; height: 100%; float: right; display: inline-block;}
 .questionnaire-list .body .right .button{ width: 90%; height: 4rem; line-height: 4rem; background-color: #23538d; color: #ffffff; border-radius: 5%; display: block; font-size: 1.8rem; }
 .questionnaire-list .body .right .button.close{ background-color: #909090; color: #ffffff; }
@@ -190,7 +190,7 @@ a{text-decoration: none;}
 .dvote-list .body .left{ width: 65%; height: 100%; text-align: left; display:inline-block;}
 .dvote-list .body .left .title{ font-size: 1.5rem; font-weight: bold; }
 .dvote-list .body .left .text{ font-size: 1.4rem; background-repeat: no-repeat; background-size:8%; background-position-y:30%; padding-left: 10%; margin-top: 2%;}
-.dvote-list .body .left .time{ background-image: url("../images/signup_time.png"); }
+.dvote-list .body .left .time{ background-image: url("./signup_time.png"); }
 .dvote-list .body .right{ width: 30%; height: 100%; float: right; display: inline-block;}
 .dvote-list .body .right .button{ width: 90%; height: 4.5rem; line-height: 4.5rem; background-color: #23538d; color: #ffffff; border-radius: 5%; display: block; font-size: 1.8rem; }
 .dvote-list .body .right .button.close{ background-color: #909090; color: #ffffff; }
@@ -214,20 +214,20 @@ a{text-decoration: none;}
 .map .list{ height: 32%; overflow-y: auto; background-color: #ffffff; position: absolute; bottom: 0;}
 .map .list .item{ height: 6.6rem; border-top: .1rem solid #e2e2e2;}
 .map .list .item .index{ font-size: 4rem; color: #23538d; display: inline-block; float: left; width: 10%; margin-left: 5%; line-height: 6.6rem; height: 6.6rem;}
-.map .list .item .icon{ background-image: url("../images/map_icon.png"); background-repeat: no-repeat; background-size: 100% auto; width: 2rem; height: 2rem; margin: 2.3rem 2%; display: inline-block; float: left; }
+.map .list .item .icon{ background-image: url("./map_icon.png"); background-repeat: no-repeat; background-size: 100% auto; width: 2rem; height: 2rem; margin: 2.3rem 2%; display: inline-block; float: left; }
 .map .list .item .info{ color: #000000; float: right; text-align: left; width: 45%; font-size: 1.2rem; line-height: 2rem; margin-top: .3rem;}
 
 
 /*ä»£è¡¨å±¥èŒå¹³å°ä¸‹è½½*/
 .download{background-repeat: no-repeat; background-size: 100% auto;}
-.download .img{ background-image: url("../images/download_img.png");  height: 45%; margin: 12% 0; }
-.download .ios{background-image: url("../images/download_ios.png"); width: 68%; height: 9.5%; margin: 4% 16%;}
-.download .android{background-image: url("../images/download_android.png"); width: 68%; height: 9.5%; margin: 3% 16%;}
+.download .img{ background-image: url("./download_img.png");  height: 45%; margin: 12% 0; }
+.download .ios{background-image: url("./download_ios.png"); width: 68%; height: 9.5%; margin: 4% 16%;}
+.download .android{background-image: url("./download_android.png"); width: 68%; height: 9.5%; margin: 3% 16%;}
 
 
 /*äººå¤§ä»£è¡¨æœç´¢*/
 .search{ overflow-y: auto;}
-.search .head{ height: 16.6%; background-image: url("../images/search_bg.png"); background-repeat: no-repeat; background-size: 100% auto; position: relative;}
+.search .head{ height: 16.6%; background-image: url("./search_bg.png"); background-repeat: no-repeat; background-size: 100% auto; position: relative;}
 .search .head .keyword{ position: absolute; left: 14%; top: 31%; height: 34%; width: 60%; background: none; border: none; font-size: 1.8rem;}
 .search .body{}
 .search .body .item{ height: 10rem; border-bottom: .1rem solid #e2e2e2;}
@@ -235,7 +235,7 @@ a{text-decoration: none;}
 .search .body .item .img img{ width: 100%; height: auto;}
 .search .body .item .info{ color: #000000; float: left; text-align: left; width: 40%; margin-top: 3rem; margin-left: 5%;}
 .search .body .item .info .title{ color: #717171;}
-.search .body .item .more{width: 2.2rem; height: 2.2rem; float: right; margin-right: 5%; margin-top: 4rem; background-image: url("../images/more.png"); background-repeat: no-repeat; background-size: cover; background-position: left bottom;}
+.search .body .item .more{width: 2.2rem; height: 2.2rem; float: right; margin-right: 5%; margin-top: 4rem; background-image: url("./more.png"); background-repeat: no-repeat; background-size: cover; background-position: left bottom;}
 
 
 /*äººå¤§ä»£è¡¨ä»‹ç»*/
