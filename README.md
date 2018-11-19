@@ -26,14 +26,14 @@
 
         <div class="item">
             <div class="img">
-                <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzI2OTU2NDk4OQ==&amp;scene=126#wechat_redirect"><img src="./2-2.jpg" border="0"></a> </div>
+                <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzI2OTU2NDk4OQ==&amp;scene=126#wechat_redirect"><img src="./2-2.JPG" border="0"></a> </div>
             <div class="name">都江堰人大</div>
         </div>
 
         <!--宝山人大-->
         <div class="item">
             <div class="img">
-                <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzI1NDY5MzMwNw==&amp;scene=126#wechat_redirect"><img src="./2-2.jpg" border="0"></a> </div>
+                <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzI1NDY5MzMwNw==&amp;scene=126#wechat_redirect"><img src="./2-2.JPG" border="0"></a> </div>
             <div class="name">新都区人大</div>
         </div>
 
