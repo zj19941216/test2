@@ -34,14 +34,14 @@
 
         <div class="item">
             <div class="img">
-                <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzIwMjYwMTk2MQ==&amp;scene=126#wechat_redirect"><img src="./2-1.jpg" border="0"></a> </div>
+                <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzIwMjYwMTk2MQ==&amp;scene=126#wechat_redirect"><img src="./2-1.JPG" border="0"></a> </div>
             <div class="name">邛崃市人大</div>
         </div>
 
 
         <div class="item">
             <div class="img">
-                <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzIzMzIxMjQ2Ng==&amp;scene=126#wechat_redirect"><img src="./2-2.jpg" border="0"></a> </div>
+                <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzIzMzIxMjQ2Ng==&amp;scene=126#wechat_redirect"><img src="./2-2.JPG" border="0"></a> </div>
             <div class="name">新津县人大</div>
         </div>
 
