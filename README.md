@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>微信矩阵</title>
@@ -12,6 +14,9 @@
     <link rel="stylesheet" rev="stylesheet" href="./swiper-3.3.1.min.css">
     <link rel="stylesheet" rev="stylesheet" href="./main.css">
     <link rel="stylesheet" rev="stylesheet" href="./renda.css">
+</head>
+	    <meta charset="UTF-8">
+    <title>关注论坛</title>
 </head>
 <body>
 <section class="index default">
@@ -388,3 +393,5 @@
     })
 </script>
 </body>
+
+</html>
